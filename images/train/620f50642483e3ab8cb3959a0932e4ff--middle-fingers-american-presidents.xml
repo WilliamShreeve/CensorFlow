@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>620f50642483e3ab8cb3959a0932e4ff--middle-fingers-american-presidents</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\train\620f50642483e3ab8cb3959a0932e4ff--middle-fingers-american-presidents.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>309</ymin>
+      <xmax>432</xmax>
+      <ymax>569</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>overwatch_mf</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\test\overwatch_mf.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>280</xmin>
+      <ymin>234</ymin>
+      <xmax>423</xmax>
+      <ymax>550</ymax>
+    </bndbox>
+  </object>
+</annotation>

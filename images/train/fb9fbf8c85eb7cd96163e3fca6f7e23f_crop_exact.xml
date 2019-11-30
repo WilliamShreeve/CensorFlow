@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>fb9fbf8c85eb7cd96163e3fca6f7e23f_crop_exact</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\train\fb9fbf8c85eb7cd96163e3fca6f7e23f_crop_exact.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>453</xmin>
+      <ymin>293</ymin>
+      <xmax>554</xmax>
+      <ymax>455</ymax>
+    </bndbox>
+  </object>
+</annotation>

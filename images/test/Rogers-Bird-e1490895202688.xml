@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>Rogers-Bird-e1490895202688</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\test\Rogers-Bird-e1490895202688.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>237</ymin>
+      <xmax>367</xmax>
+      <ymax>467</ymax>
+    </bndbox>
+  </object>
+</annotation>

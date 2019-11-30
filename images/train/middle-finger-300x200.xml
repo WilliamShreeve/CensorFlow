@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>middle-finger-300x200</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\train\middle-finger-300x200.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>220</xmin>
+      <ymin>32</ymin>
+      <xmax>544</xmax>
+      <ymax>553</ymax>
+    </bndbox>
+  </object>
+</annotation>

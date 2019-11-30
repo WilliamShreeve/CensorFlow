@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>b683cd34dd85096defd0560a6cb376b9</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\train\b683cd34dd85096defd0560a6cb376b9.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>458</xmin>
+      <ymin>142</ymin>
+      <xmax>722</xmax>
+      <ymax>297</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>maxresdefault (1)</filename>
+  <path>C:\Users\William\Desktop\Project3\CensorFlow\images\train\maxresdefault (1).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>237</xmin>
+      <ymin>140</ymin>
+      <xmax>381</xmax>
+      <ymax>333</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>flipping_the_bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>465</xmin>
+      <ymin>228</ymin>
+      <xmax>586</xmax>
+      <ymax>398</ymax>
+    </bndbox>
+  </object>
+</annotation>
