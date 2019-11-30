@@ -1,5 +1,7 @@
 # CensorFlow
 
+CIS365 Project 3. William Shreeve, Ben Townsend, Parker Petroff, Grant Ivernsen
+
 ## Required Libraries
 `numpy`
 
